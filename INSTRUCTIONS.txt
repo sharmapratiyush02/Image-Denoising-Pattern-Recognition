@@ -1,0 +1,30 @@
+================================================================================
+INSTRUCTIONS FOR PRATIYUSH (TEAM LEAD - INITIAL REPO SETUP)
+================================================================================
+
+This package contains everything to set up the repository and PRE-CREATE
+the 'figures/' and 'results/' folders so your teammates see them immediately on GitHub!
+
+YOUR FILES IN THIS ZIP:
+  Root folder:
+    - run_experiments.py
+    - README.md
+    - requirements.txt
+    - .gitignore
+    - Graphical_Abstract.png
+  In results/ folder:
+    - results/metrics_summary.csv     <-- Creates the 'results/' folder on GitHub
+  In figures/ folder:
+    - figures/runtime_comparison.png  <-- Creates the 'figures/' folder on GitHub
+
+HOW TO PUBLISH:
+1. Copy all files and folders (including 'figures' and 'results') from this ZIP
+   into your local repo folder:
+   Documents\GitHub\Image-Denoising-Pattern-Recognition
+2. In GitHub Desktop:
+   - Summary: Initial commit: initialize benchmark pipeline, folders and documentation
+   - Click 'Commit to main'
+   - Click 'Publish repository' (uncheck 'Keep this code private' if you want it public)
+3. On GitHub website:
+   - Go to Settings -> Collaborators -> Add Akshada, Ayushi, and Pushpak!
+================================================================================

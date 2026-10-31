@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches
+.mpl_cache/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Dataset directory (downloads on first run if needed)
+data/
+*.gz
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Word and OS temporary files
+~$*
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local backup folders
+backup_before_fix/
