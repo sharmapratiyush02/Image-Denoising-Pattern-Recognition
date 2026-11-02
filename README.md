@@ -2,7 +2,6 @@
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
-[![IEEE Format](https://img.shields.io/badge/Paper-IEEE%20Format-00629B.svg)](./IEEE_Image_Denoising_Paper.pdf)
 
 An empirical pattern recognition study evaluating three fundamental image restoration paradigms: **Classical Spatial Filtering** (Gaussian, Median, Bilateral), **Linear Subspace Projection** (Principal Component Analysis - PCA), and **Deep Representation Learning** (Convolutional Denoising Autoencoder - CDAE).
 
