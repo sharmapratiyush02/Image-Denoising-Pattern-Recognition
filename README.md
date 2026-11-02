@@ -98,7 +98,7 @@ Evaluated on **500 standardized test samples** of Fashion-MNIST ($28 \times 28$ 
 | **Pratiyush Sharma** *(Lead)* | `run_experiments.py`, `README.md`, `requirements.txt`, `.gitignore`, `Graphical_Abstract.png`, `results/metrics_summary.csv`, `figures/runtime_comparison.png` |
 | **Akshada Shinde** | `figures/psnr_bar_chart.png`, `figures/ssim_bar_chart.png`, `figures/pca_variance_and_psnr.png` |
 | **Ayushi Kadam** | `results/cdae_weights.pth`, `figures/sample_denoised_comparisons.png`, `figures/cdae_loss_curves.png`, `figures/zoomed_detail_crops.png` |
-| **Pushpak Agarwal** | `Lab8_Image_Denoising.ipynb`, `IEEE_Image_Denoising_Paper.pdf`, `IEEE_Image_Denoising_Paper.docx` |
+| **Pushpak Agarwal** | `Lab8_Image_Denoising.ipynb`, `IEEE_Image_Denoising_Paper.pdf`|
 
 ---
 
