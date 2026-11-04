@@ -2,6 +2,7 @@
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
+[![IEEE Paper](https://img.shields.io/badge/Paper-IEEE%20Format-00629B.svg)](./Group%20No.3%20IEEE_Image_Denoising_Research_Paper.pdf)
 
 An empirical pattern recognition study evaluating three fundamental image restoration paradigms: **Classical Spatial Filtering** (Gaussian, Median, Bilateral), **Linear Subspace Projection** (Principal Component Analysis - PCA), and **Deep Representation Learning** (Convolutional Denoising Autoencoder - CDAE).
 
@@ -11,7 +12,7 @@ An empirical pattern recognition study evaluating three fundamental image restor
 * **Pratiyush Sharma** ([@sharmapratiyush02](https://github.com/sharmapratiyush02)) - *Lead Researcher, Pipeline Architecture, Execution Engine & Graphical Abstract*
 * **Akshada Shinde** ([@Akshada2709](https://github.com/Akshada2709)) - *Classical Filtering Optimization & Quantitative Benchmark Metrics*
 * **Ayushi Kadam** ([@ayuushi18](https://github.com/ayuushi18)) - *Deep Learning Model Architecture & Visual Evaluations*
-* **Pushpak Agarwal** ([@PushpakAg10](https://github.com/PushpakAg10)) - *IEEE Research Paper & Interactive Notebook*
+* **Pushpak Agarwal** ([@PushpakAg10](https://github.com/PushpakAg10)) - *[IEEE Research Paper (PDF)](./Group%20No.3%20IEEE_Image_Denoising_Research_Paper.pdf) & Interactive Notebook*
 
 *Department of Computer Science and Engineering — Pattern Recognition & Machine Intelligence Research Group*
 
@@ -19,6 +20,14 @@ An empirical pattern recognition study evaluating three fundamental image restor
 
 ## 📊 Graphical Abstract
 ![Graphical Abstract](./Graphical_Abstract.png)
+
+---
+
+## 📑 IEEE Research Paper
+The full camera-ready research paper prepared in standard IEEE conference format is available directly in this repository:
+* 📄 **Read / Download Paper:** [**Group No.3 IEEE_Image_Denoising_Research_Paper.pdf**](./Group%20No.3%20IEEE_Image_Denoising_Research_Paper.pdf)
+* **Title:** *Comparative Empirical Evaluation of Spatial Filtering, Subspace Learning, and Deep Convolutional Autoencoders for Image Noise Attenuation in Pattern Recognition*
+* **Format:** Camera-Ready 8-Page IEEE Two-Column Format (incorporating mathematical formulations, comprehensive benchmark tables, and qualitative visual evaluations)
 
 ---
 
@@ -69,7 +78,7 @@ Evaluated on **500 standardized test samples** of Fashion-MNIST ($28 \times 28$ 
 ```text
 ├── run_experiments.py              # Main automated benchmarking and evaluation pipeline
 ├── Lab8_Image_Denoising.ipynb      # Complete interactive Jupyter Notebook
-├── Group No.3 IEEE_Image_Denoising_Paper.pdf  # Camera-ready 8-page IEEE research paper
+├── Group No.3 IEEE_Image_Denoising_Research_Paper.pdf  # Camera-ready 8-page IEEE research paper
 ├── Graphical_Abstract.png          # High-resolution Graphical Abstract banner (300 DPI)
 ├── requirements.txt                # Python environment dependencies
 ├── .gitignore                      # Git ignore configuration
@@ -95,7 +104,7 @@ Evaluated on **500 standardized test samples** of Fashion-MNIST ($28 \times 28$ 
 | **Pratiyush Sharma** *(Lead)* | `run_experiments.py`, `README.md`, `requirements.txt`, `.gitignore`, `Graphical_Abstract.png`, `results/metrics_summary.csv`, `figures/runtime_comparison.png` |
 | **Akshada Shinde** | `figures/psnr_bar_chart.png`, `figures/ssim_bar_chart.png`, `figures/pca_variance_and_psnr.png` |
 | **Ayushi Kadam** | `results/cdae_weights.pth`, `figures/sample_denoised_comparisons.png`, `figures/cdae_loss_curves.png`, `figures/zoomed_detail_crops.png` |
-| **Pushpak Agarwal** | `Lab8_Image_Denoising.ipynb`, `Group No.3 IEEE_Image_Denoising_Paper.pdf`|
+| **Pushpak Agarwal** | `Lab8_Image_Denoising.ipynb`, [`Group No.3 IEEE_Image_Denoising_Research_Paper.pdf`](./Group%20No.3%20IEEE_Image_Denoising_Research_Paper.pdf) |
 
 ---
 
